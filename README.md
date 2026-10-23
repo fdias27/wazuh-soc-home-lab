@@ -197,7 +197,7 @@ There are a few things I would like to add later:
 
 The full project report is available here:
 
-[Wazuh SOC Home Lab Portfolio Report](docs/Wazuh_SOC_Home_Lab_Portfolio_Report_Filipe_Dias.pdf)
+[Wazuh SOC Home Lab Portfolio Report](docs/wazuh-soc-home-lab-portfolio-report-filipe-dias.pdf)
 
 
 ## Disclaimer
